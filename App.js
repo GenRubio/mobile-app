@@ -30,7 +30,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <WebView source={{ uri: 'https://suara.pre.basetis.com' }} />
+      <WebView source={{ uri: 'https://www.google.com/' }} />
     </View>
   );
 }
